@@ -6,3 +6,5 @@ tmp/
 play*.yml
 .vscode
 .torrent.bolt.db
+
+.idea/
